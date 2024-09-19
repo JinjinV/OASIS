@@ -1,0 +1,13 @@
+Simulation Options
+              2000           | VLL : Vertical Line Length for DAM width limitation (Meter)
+               100            | SDI : Searching Distance Interval (GAP) (Meter)
+               100            | SID : Searching InitialDistance (Meter)
+              25000          | SMD : Searching Max Distance (Meter)
+               0             | ASA : Additional Slope analysis Option 0-Off, 1-ON             
+               1             | LAO : Landuse Analysis Option 0-Off, 1-ON
+               0             | SAO : Soil Analysis Option 0-Off, 1-ON
+               0             | CAO : Climate Analysis Option 0-Off, 1-ON
+               10            | NRP : Number of Rank results to be produced
+               
+Database file names (\Data\)
+ KCBHDAM     | InFName : Analysis Target DEM or Shed Name
